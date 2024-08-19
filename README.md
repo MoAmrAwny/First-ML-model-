@@ -1,4 +1,2 @@
-# First-ML-model
-Preprocessing Data and EDA and trained the model, and did A hyper parameter Tuning to Optimize the Model Accuracy
-Tried one or more feature selection method to optimize model accuracy. 
-
+# Hotel Booking System
+This repository contains a machine learning model designed to predict whether a hotel booking will be canceled or not. The model leverages various features from booking data to provide predictions that can help hotels manage bookings and optimize their operations.
